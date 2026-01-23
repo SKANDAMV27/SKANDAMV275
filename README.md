@@ -32,15 +32,6 @@ Building enterprise-grade systems with structured backend logic and responsive U
 
 ---
 
-# 🎨 Rotating Tech Stack Icons (Animated)
-<p align="center">
-  <img src="https://github.com/SKANDAMV27/SKANDAMV27/blob/main/rotate-tech.gif" width="80%" />
-</p>
-
-🎯 **If you want, I can generate a custom animated GIF with your tech stack.**
-
----
-
 # 🛠️ Static Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,html,css,js,bootstrap,git,github,idea,vscode,postman" />
