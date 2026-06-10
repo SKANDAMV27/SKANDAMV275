@@ -19,18 +19,138 @@
 </p>
 
 # 👨‍💼 Current Role
-💼 **Java Full Stack Developer**  
-Building enterprise-grade systems with structured backend logic and responsive UIs.
+
+💼 **Java Full Stack Developer**
+Designing and building enterprise-grade applications with scalable backend architectures and modern frontend technologies.
 
 ### 🔹 What I Do
-- 🚀 Build **Spring Boot REST APIs**
-- 🗄️ Work with **MySQL + Hibernate + JPA**
-- 🎨 Develop **React + Bootstrap** UIs
-- 🐞 Debug API issues using **Postman**
-- 🧩 Layered Architecture – Controller → Service → Repository
-- 🔄 Use Git/GitHub for version control
+
+* 🚀 Develop **Spring Boot 3 REST APIs**
+* 🏗️ Design **Microservices-based architectures**
+* 🔐 Implement **JWT Authentication & Authorization**
+* 🗄️ Work with **MySQL, JPA, Hibernate & Database Auditing**
+* 🌐 Build responsive UIs using **React.js + Bootstrap**
+* 🔄 Integrate **Third-Party REST APIs**
+* 🧪 Test APIs using **Postman**
+* 📦 Manage code using **Git & GitHub**
+* 🧩 Follow **Layered & Clean Architecture Principles**
+* 🐞 Debug and optimize production issues
 
 ---
+
+# 🛠️ Tech Stack
+
+### ☕ Backend
+
+* Java 17
+* Spring Boot 3
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* Spring Security
+* JWT Authentication
+* RESTful APIs
+
+### 🏗️ Microservices (Learning & Implementing)
+
+* Spring Cloud
+* API Gateway
+* Service Discovery (Eureka)
+* Distributed Configuration
+* Circuit Breaker (Resilience4j)
+
+### 🎨 Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
+
+### 🗄️ Database
+
+* MySQL
+* PostgreSQL
+
+### 🛠️ Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+* Maven
+* Docker
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Travel CRM & Itinerary Management System
+
+```text
+Spring Boot 3 + React + MySQL
+• Developed enterprise modules for itinerary quotations
+• Implemented auditing with createdBy/modifiedBy tracking
+• Integrated tele-CRM REST APIs
+• Managed booking workflows and financial entities
+```
+
+## 👨‍💼 Employee Feedback System
+
+```text
+React + Spring Boot + PostgreSQL
+• Role-based authentication
+• Feedback workflows and dashboards
+• Employee and manager modules
+```
+
+## 🛒 Lakshmi Wines – Liquor Shop Website
+
+```text
+HTML + CSS + Bootstrap + JavaScript
+• Responsive UI design
+• Product showcase and branding
+• Mobile-friendly layout
+```
+
+## 📇 Customer Management System
+
+```text
+Servlets + JSP + JDBC + MySQL
+• Customer registration and validation
+• CRUD operations
+• Database integration using JDBC
+```
+
+## 🌐 Tourism Management System
+
+```text
+Spring Boot + MySQL
+• User and admin dashboards
+• Booking and reporting modules
+• Authentication and authorization
+```
+
+---
+
+# 📚 Currently Learning
+
+* ☁️ Microservices Architecture
+* 🚪 Spring Cloud Gateway
+* 🔍 Netflix Eureka
+* ⚡ Resilience4j
+* 🐳 Docker & Containerization
+* ☸️ Kubernetes Fundamentals
+* 🔄 CI/CD Concepts
+* 🏛️ System Design Principles
+
+---
+
+# 🎯 Career Objective
+
+Passionate Java Full Stack Developer focused on building scalable, maintainable, and high-performance applications. Continuously learning modern backend technologies and cloud-native practices to grow into a proficient Software Engineer and Solution Architect.
+
 
 # 🛠️ Static Tech Stack
 <p align="center">
